@@ -1,3 +1,5 @@
+// not final version;
+
 #include <stdio.h>
 #include <stdlib.h> 
 #include <stdbool.h>
@@ -59,3 +61,4 @@ bool checkString(char number[],int size)
   }
   return true;
 }
+
