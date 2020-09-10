@@ -1,4 +1,5 @@
-// not final version;
+// not final version, ;
+
 #include <stdio.h>
 #include <stdlib.h> 
 #include <stdbool.h>
