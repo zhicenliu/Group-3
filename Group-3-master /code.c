@@ -2,6 +2,9 @@
 #include <stdlib.h> 
 #include <stdbool.h>
 
+/*
+ * Function declaration
+ */
 bool checkString(char [],int );
 
 int main(void) 
@@ -39,7 +42,9 @@ else
 }
  
 }
-
+/*
+ * Make judegments to the string
+ */
 bool checkString(char number[],int size)
 {
     
